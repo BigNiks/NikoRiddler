@@ -1,9 +1,12 @@
 Name: YOUR NAME HERE
 
-| Date   |    Time    |                                                                    Update |
-|:-------|:----------:|--------------------------------------------------------------------------:|
-| Aug 22 |  8-8:30pm  | I started by thinking about my place in the universe.<br/>It was scary... |
-|        |            |                                                             And then I... |
-
+| Date   |      Time      |                                                                                                                                                                                                                                                                                                                                                  Update |
+|:-------|:--------------:|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| Aug 22 | 10:30-10:50 AM | I started by thinking about how I was going to solve the ASCII decryption code.<br/> I initially thought to use a sort of array list to store all the different ASCII values in.<br/> Then use said list to identify the meanings of the different values using a loop. While I am thinking about that, I am also working on decrypting the first code. |
+| Aug 22 |    10:40 AM    |                                                                                                                                                                                                                                                                                    I just realized that I can directly convert ascii values into chars. |
+| Aug 24 |  9:00-9:30 AM  |                                                                                                                                                                                                                                                                             I continued to try and decrypt the remaining texts starting with #1 and #3. |
+| Aug 24 | 9:30-10:30 AM  |                                                                            A lot of trial and error went into this, Diego and I conversed on how to code through #2, I had an idea to use % to solve #3 and tried that out. Both my soulutions seemed to have worked. I am planning on decrypting #4 next time as well as finishing up the code for #1. |
+| Aug 28 | 9:30-10:30 PM  |                                                                                                                I updated my code for #3 as well as finished the code for #1 completely. I ran into trouble with #1 for a short while since I had forgotten about the fact that I needed to check whether the char was an uppercase or lowercase letter. |
+|        |                |                                                                                                                                                                                                                                                                                                                                                         |
 
 To add a new row to the table, click into a cell and then hit shift-enter.
