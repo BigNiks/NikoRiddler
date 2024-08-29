@@ -52,7 +52,7 @@ public class Riddler {
                 dlet = "";
                 ascii = "";
             }
-            ascii += encrypted.charAt(i);
+            ascii += dlet;
             i++;
         }
         return decrypted;

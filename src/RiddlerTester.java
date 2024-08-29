@@ -15,13 +15,13 @@ public class RiddlerTester {
     @Test
     public void testTwo() {
         setTestData("2");
-        solver.decryptOne(encrypted);
+        solver.decryptTwo(encrypted);
     }
 
     @Test
     public void testThree() {
         setTestData("3");
-        solver.decryptOne(encrypted);
+        solver.decryptThree(encrypted);
     }
 
     @Test
